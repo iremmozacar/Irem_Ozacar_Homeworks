@@ -1,0 +1,15 @@
+/Users/iremozacar/Documents/GitHub/InfoTech-MSCD-ENE-5/Homework/Homework__/bin/Debug/net8.0/Homework__
+/Users/iremozacar/Documents/GitHub/InfoTech-MSCD-ENE-5/Homework/Homework__/bin/Debug/net8.0/Homework__.deps.json
+/Users/iremozacar/Documents/GitHub/InfoTech-MSCD-ENE-5/Homework/Homework__/bin/Debug/net8.0/Homework__.runtimeconfig.json
+/Users/iremozacar/Documents/GitHub/InfoTech-MSCD-ENE-5/Homework/Homework__/bin/Debug/net8.0/Homework__.dll
+/Users/iremozacar/Documents/GitHub/InfoTech-MSCD-ENE-5/Homework/Homework__/bin/Debug/net8.0/Homework__.pdb
+/Users/iremozacar/Documents/GitHub/InfoTech-MSCD-ENE-5/Homework/Homework__/obj/Debug/net8.0/Homework__.GeneratedMSBuildEditorConfig.editorconfig
+/Users/iremozacar/Documents/GitHub/InfoTech-MSCD-ENE-5/Homework/Homework__/obj/Debug/net8.0/Homework__.AssemblyInfoInputs.cache
+/Users/iremozacar/Documents/GitHub/InfoTech-MSCD-ENE-5/Homework/Homework__/obj/Debug/net8.0/Homework__.AssemblyInfo.cs
+/Users/iremozacar/Documents/GitHub/InfoTech-MSCD-ENE-5/Homework/Homework__/obj/Debug/net8.0/Homework__.csproj.CoreCompileInputs.cache
+/Users/iremozacar/Documents/GitHub/InfoTech-MSCD-ENE-5/Homework/Homework__/obj/Debug/net8.0/Homework__.sourcelink.json
+/Users/iremozacar/Documents/GitHub/InfoTech-MSCD-ENE-5/Homework/Homework__/obj/Debug/net8.0/Homework__.dll
+/Users/iremozacar/Documents/GitHub/InfoTech-MSCD-ENE-5/Homework/Homework__/obj/Debug/net8.0/refint/Homework__.dll
+/Users/iremozacar/Documents/GitHub/InfoTech-MSCD-ENE-5/Homework/Homework__/obj/Debug/net8.0/Homework__.pdb
+/Users/iremozacar/Documents/GitHub/InfoTech-MSCD-ENE-5/Homework/Homework__/obj/Debug/net8.0/Homework__.genruntimeconfig.cache
+/Users/iremozacar/Documents/GitHub/InfoTech-MSCD-ENE-5/Homework/Homework__/obj/Debug/net8.0/ref/Homework__.dll
